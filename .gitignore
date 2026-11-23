@@ -1,3 +1,4 @@
 cfem.db
-cfem_limpo.csv
+*.csv
+!resultados/*.csv
 __pycache__/
